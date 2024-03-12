@@ -2,7 +2,7 @@
 This mod adds crafting recipies to more easily obtain seeds and saplings from the leaves/grass of their plants
 
 # License
-The mod license is under LICENSE.TXT
+The mod license is under LICENSE
 
 # Installation
 The recommended way to install this mod is over ContentDB.
