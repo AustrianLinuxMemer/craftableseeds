@@ -81,7 +81,7 @@ minetest.register_craft({
 })
 minetest.register_craft({
     type = "shapeless",
-    output = "default:default:pine_bush_sapling 1",
+    output = "default:pine_bush_sapling 1",
     recipe = {
         "default:pine_bush_needles"
     }
@@ -100,6 +100,15 @@ minetest.register_craft({
         "default:blueberry_bush_leaves_with_berries"
     }
 })
+-- Dirt with Grass recipe
+minetest.register_craft({
+    type = "shapeless",
+    output = "default:dirt_with_grass",
+    recipe = {
+        "default:dirt", "default:dry_grass_1"
+    }
+})
+
 -- Savannah dirt with Dry Grass recipie
 minetest.register_craft({
     type = "shapeless",
