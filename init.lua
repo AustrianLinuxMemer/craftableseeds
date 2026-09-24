@@ -105,7 +105,7 @@ minetest.register_craft({
     type = "shapeless",
     output = "default:dirt_with_grass",
     recipe = {
-        "default:dirt", "default:dry_grass_1"
+        "default:dirt", "default:grass_1"
     }
 })
 
