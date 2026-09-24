@@ -14,20 +14,7 @@ minetest.register_craft({
         "default:grass_1"
     }
 })
-minetest.register_craft({
-    type = "shapeless",
-    output = "farming:seed_wheat 1",
-    recipe = {
-        "default:fern_1"
-    }
-})
-minetest.register_craft({
-    type = "shapeless",
-    output = "farming:seed_wheat 1",
-    recipe = {
-        "default:marram_grass_1"
-    }
-})
+
 minetest.register_craft({
     type = "shapeless",
     output = "farming:seed_wheat 1",
